@@ -1,8 +1,9 @@
-### DIABETES SIMULATOR ##
+
+THE DIABETES SIMULATOR
        
        
        
-       ## Introduction
+       Introduction
        
        
        
@@ -21,5 +22,5 @@
        
        
        
-       ## GOOD LUCK ! ##
+       GOOD LUCK !
        
