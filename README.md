@@ -1,4 +1,4 @@
-### DIABETES SIMULATOR
+### DIABETES SIMULATOR ##
        
        
        
@@ -21,5 +21,5 @@
        
        
        
-       ## GOOD LUCK !
+       ## GOOD LUCK ! ##
        
